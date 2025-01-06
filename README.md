@@ -1,1 +1,1 @@
-# LFThreadPool
+# LFThreadPool: Lock Free Thread Pool in C++
