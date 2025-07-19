@@ -1,6 +1,0 @@
-#include <queue>
-
-
-int main(){
-    
-}
