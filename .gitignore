@@ -1,0 +1,4 @@
+bazel-bin/
+bazel-LFThreadPool/
+bazel-out/
+bazel-testlogs/
